@@ -1,0 +1,25 @@
+.card {
+    width: 160px;
+    height: 320px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    text-align: center;
+    overflow: hidden;
+    color: white;
+  }
+  
+  .poster {
+    width:inherit;
+    height: 250px;
+    display: flex;
+  }
+  
+  .title {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+
+  a {
+    text-decoration: none;
+  }

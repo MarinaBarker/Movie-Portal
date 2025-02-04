@@ -1,0 +1,12 @@
+.movie {
+    max-width: 1240px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:flex-start;
+    gap: 17px;
+    margin: 0 auto;
+}
+
+.noResultsMessage {
+    text-align: center;
+}

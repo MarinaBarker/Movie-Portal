@@ -1,0 +1,13 @@
+.containerMain {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    overflow: hidden;
+    max-width: 1240px;
+    margin: 10px auto;
+  }
+
+  .empty {
+    text-align: center;
+    margin: 20px auto;
+  }

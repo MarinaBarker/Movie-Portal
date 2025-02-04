@@ -1,0 +1,15 @@
+.container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    background-color: #131316;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.star {
+    width: 35px;
+}

@@ -1,0 +1,40 @@
+.header {
+    background-color: #1d1d31;
+  }
+  .menu {
+    display: flex;
+    align-items: center;
+    max-width: 1240px;
+    height: 56px;
+    margin: 0 auto;
+  }
+  
+  .menu_part_left {
+    display: flex;
+    flex-basis: 35%;
+  }
+  
+  .link {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    color: #d2d2d2;
+  }
+  
+  .link_active {
+    color: #af9d9d;
+  }
+  
+  .link_position_last {
+    display: flex;
+    justify-content: flex-end;
+    flex-basis: 35%;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+  }
+  
